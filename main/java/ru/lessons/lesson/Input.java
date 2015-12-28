@@ -9,10 +9,15 @@ package main.java.ru.lessons.lesson;
  *
  */
 public interface Input {
-	
-	
+	 
+        /*
+	*next method
+	*/
 	String next();
 	
+	/*
+	*close method
+	*/
 	void close();
 
 }
