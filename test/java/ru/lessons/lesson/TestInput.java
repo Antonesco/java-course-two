@@ -16,7 +16,7 @@ public class TestInput implements Input{
 	private int index = 0;
 	
 	/*
-	 * (non-Javadoc)
+	 * next method
 	 * @see main.java.ru.lessons.lesson.Input#next()
 	 * @param index
 	 */
@@ -26,7 +26,7 @@ public class TestInput implements Input{
 	}
 	
 	/*
-	 * (non-Javadoc)
+	 * close method(non-Javadoc)
 	 * @see main.java.ru.lessons.lesson.Input#close()
 	 */
 	@Override
