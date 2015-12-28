@@ -25,6 +25,7 @@ public class TestCalculator{
 	}
 	
 	@Test
+	//test method for substract
 	public void testSubstract(){
 		Calculator calc = new Calculator();
 		calc.subtract(4, 2);
@@ -32,6 +33,7 @@ public class TestCalculator{
 	}
 	
 	@Test
+	//test method for multiply
 	public void testMultiply(){
 		Calculator calc = new Calculator();
 		calc.multiply(3,2);
@@ -39,6 +41,7 @@ public class TestCalculator{
 	}
 	
 	@Test
+	//test method for div
 	public void testDivide(){
 		Calculator calc = new Calculator();
 		calc.div(9,3);
