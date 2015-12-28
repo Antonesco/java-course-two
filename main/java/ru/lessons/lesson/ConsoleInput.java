@@ -21,7 +21,7 @@ public class ConsoleInput implements Input{
 	}
 
 	/*
-	 * (non-Javadoc)
+	 * method for input string variables
 	 * @see main.java.ru.lessons.lesson.Input#next()
 	 * @param index
 	 */
@@ -31,7 +31,7 @@ public class ConsoleInput implements Input{
 	}
 	
 	/*
-	 * (non-Javadoc)
+	 * close after exit program
 	 * @see main.java.ru.lessons.lesson.Input#close()
 	 */
 	@Override
